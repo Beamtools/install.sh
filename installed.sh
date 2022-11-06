@@ -58,5 +58,7 @@ git clone https://github.com/mishakorzik/AllHackingTools
 apt install toilet figlet exa wget ruby -y
 gem install lolcat 
 dpkg --configure -a
+apt update && apt upgrade -y
+apt update -y
 clear
 
