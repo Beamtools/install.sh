@@ -48,6 +48,9 @@ git clone https://github.com/Sohil876/Termux-zsh
 git clone https://github.com/h4ck3r0/Termux-os
 git clone https://github.com/KasRoudra/stylishtermux
 apt install zsh -y
+apt install root-repo -y
+apt install tsu -y
+apt install x11-repo
 git clone https://github.com/remo7777/T-Header.git
 git clone https://github.com/sabri-zaki/EasY_HaCk
 git clone https://github.com/adi1090x/termux-style
